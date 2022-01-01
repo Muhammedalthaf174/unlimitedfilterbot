@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://t.me/milnabotchannel")
+                        "Bot List", url="https://t.me/milnabotchannel/14")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
